@@ -6,6 +6,7 @@
 
 This is the authors' code release for:
 > **Referring Object Manipulation of Natural Images using Conditional Classifier-free Guidance**
+> 
 > Myungsub Choi
 
 ![teaser-image](assets/teaser.png)
