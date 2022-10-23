@@ -1,6 +1,6 @@
 # Referring Object Manipulation
 
-[[Paper(TBU)]](https://myungsub.github.io/)
+[[Paper]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5859_ECCV_2022_paper.php)
 [[Project]](https://myungsub.github.io/)
 
 
@@ -12,6 +12,17 @@ This is the authors' code release for:
 ![teaser-image](assets/teaser.png)
 
 *Disclaimer: This is not an officially supported Google product.*
+
+If you find our work useful in your research or publication, please consider citing our paper:
+```
+@InProceedings{Choi_2022_ECCV,
+  author = {Choi, Myungsub},
+  title = {Referring Object Manipulation of Natural Images using Conditional Classifier-free Guidance},
+  booktitle = {Proceedings of the European Conference on Computer Vision (ECCV)},
+  month = {October},
+  year = {2022}
+}
+```
 
 
 ## Setup
@@ -66,3 +77,4 @@ We thank the authors for making their code publicly available.
 ## Changelog
 
 * 04/22/2022: Initial release.
+* 10/23/2022: Add paper link & bibtex
